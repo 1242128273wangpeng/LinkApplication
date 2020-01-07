@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LinkApplication</string>
+    <!--    <string name="asset_statements">[{\"include\": \"https://1242128273wangpeng.github.io/.well-known/assetlinks.json\"}]</string>-->
+    <string name="asset_statements" translatable="false">[{\n  \"relation\": [\"delegate_permission/common.share_location\"],\n  \"target\": {\n    \"namespace\": \"web\",\n    \"site\": \"https://1242128273wangpeng.github.io.",\n  }\n}]</string>
+</resources>
